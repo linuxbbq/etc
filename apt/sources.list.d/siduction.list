@@ -1,0 +1,11 @@
+deb http://ftp.uni-stuttgart.de/siduction/base unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/base unstable main contrib non-free
+
+deb http://ftp.uni-stuttgart.de/siduction/extra unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/extra unstable main contrib non-free
+
+deb http://ftp.uni-stuttgart.de/siduction/fixes unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/fixes unstable main contrib non-free
+
+#deb http://ftp.uni-stuttgart.de/siduction/experimental unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/experimental unstable main contrib non-free
