@@ -1,0 +1,7 @@
+deb http://ftp.uni-stuttgart.de/siduction/experimental unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/experimental unstable main contrib non-free
+
+deb http://ftp.uni-stuttgart.de/siduction/user unstable main contrib non-free
+#deb-src http://ftp.uni-stuttgart.de/siduction/user unstable main contrib non-free
+
+deb http://linuxbbq.org/repos/apt/debian sid main
